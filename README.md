@@ -56,8 +56,8 @@ insertion_sort(list_of_nums)
 print(list_of_nums)
 ```
 ## Output:
-![sel](/selsort.png)
-![ins](/inssort.png)
+![sel](./selsort.png)
+![ins](./inssort.png)
 
 
 
